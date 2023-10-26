@@ -1,0 +1,15 @@
+
+
+
+#ifndef POTONTIOMETER_LCFG_H_
+#define POTONTIOMETER_LCFG_H_
+
+
+#define		POT1_CHANNEL		CHANNEL_0
+
+#define		POT2_CHANNEL		CHANNEL_1
+
+#define		POT3_CHANNEL		CHANNEL_2
+
+
+#endif /* POTONTIOMETER_LCFG_H_ */
